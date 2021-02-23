@@ -9,22 +9,29 @@
     </link>
 </head>
 
-<body onload="printBlanks();playerInfo();">
+<body>
     <h1>Memory Matching</h1>
 
-    <main>
-        <img src="" id="image1" onclick="flipImage(0);">
-        <img src="" id="image2" onclick="flipImage(1);">
-        <img src="" id="image3" onclick="flipImage(2);">
-        <img src="" id="image4" onclick="flipImage(3);">
-        <img src="" id="image5" onclick="flipImage(4);">
-        <img src="" id="image6" onclick="flipImage(5);">
-        <img src="" id="image7" onclick="flipImage(6);">
-        <img src="" id="image8" onclick="flipImage(7);">
-        <img src="" id="image9" onclick="flipImage(8);">
-        <img src="" id="image10" onclick="flipImage(9);">
-    </main>
 
+    <div class="divTable">
+        <div class="divTableBody">
+            <div class="divTableRow">
+                <div class="divTableCell">First Name</div>
+                <div class="divTableCell"><input type="text" id="txtFirstName"></div>
+            </div>
+            <div class="divTableRow">
+                <div class="divTableCell">Last Name</div>
+                <div class="divTableCell"><input type="text" id="txtLastName"></div>
+            </div>
+            <div class="divTableRow">
+                <div class="divTableCell">Age</div>
+                <div class="divTableCell"><input type="text" id="txtAge"></div>
+            </div>
+            <div class="divTableRow">
+                <div class="divTableCell"><button id="btnSubmit" onclick="addToPlayer();">Submit</button></div>
+            </div>
+        </div>
+    </div>
 
 </body>
 
