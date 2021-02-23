@@ -18,7 +18,7 @@ function printBlanks() {
 }
 
 function createRandomImageArray() {
-    var actualImagePath = ["images/mixed.jpg", "images/yuna.jpg", "images/black.jpg", "images/red.jpg", "images/white.jpg"];
+    var actualImagePath = ["images/mixed.jpg", "images/yunaa.jpg", "images/black.jpg", "images/red.jpg", "images/white.jpg"];
     var count = [0, 0, 0, 0, 0];
 
     while (actualImages.length < 10) {
