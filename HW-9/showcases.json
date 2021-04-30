@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Shiba Biting Her Toy",
+    "image": "pics/frisbeeyuna.jpg",
+    "description": "Yuna happy with her frisbee",
+    "author": "Thamsen Borges",
+    "image_year": 2019
+  },
+  {
+    "title": "Yellowheaded Blackbird",
+    "image": "pics/yellowheaded.jpg",
+    "description": "A bird with a yellow head",
+    "author": "Thamsen Borges",
+    "image_year": 2019
+  },
+  {
+    "title": "Red-winged Blackbird",
+    "image": "pics/redwing.jpg",
+    "description": "A bird with yellow and red accents",
+    "author": "Thamsen Borges",
+    "image_year": 2021
+  },
+  {
+    "title": "Sharp-shinned Hawk",
+    "image": "pics/hawk.jpg",
+    "description": "Hawk looks for prey",
+    "author": "Thamsen Borges",
+    "image_year": 2021
+  },
+  {
+    "title": "Moon",
+    "image": "pics/daymoon.jpg",
+    "description": "The moon during the day",
+    "author": "Thamsen Borges",
+    "image_year": 2017
+  }
+]
